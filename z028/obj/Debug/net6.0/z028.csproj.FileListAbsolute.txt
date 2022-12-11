@@ -1,0 +1,15 @@
+C:\Users\ev_ba\Desktop\гикбрейнс\VisualStudia\UNTITLED (WORKSPACE)\Project\z028\bin\Debug\net6.0\z028.exe
+C:\Users\ev_ba\Desktop\гикбрейнс\VisualStudia\UNTITLED (WORKSPACE)\Project\z028\bin\Debug\net6.0\z028.deps.json
+C:\Users\ev_ba\Desktop\гикбрейнс\VisualStudia\UNTITLED (WORKSPACE)\Project\z028\bin\Debug\net6.0\z028.runtimeconfig.json
+C:\Users\ev_ba\Desktop\гикбрейнс\VisualStudia\UNTITLED (WORKSPACE)\Project\z028\bin\Debug\net6.0\z028.dll
+C:\Users\ev_ba\Desktop\гикбрейнс\VisualStudia\UNTITLED (WORKSPACE)\Project\z028\bin\Debug\net6.0\z028.pdb
+C:\Users\ev_ba\Desktop\гикбрейнс\VisualStudia\UNTITLED (WORKSPACE)\Project\z028\obj\Debug\net6.0\z028.csproj.AssemblyReference.cache
+C:\Users\ev_ba\Desktop\гикбрейнс\VisualStudia\UNTITLED (WORKSPACE)\Project\z028\obj\Debug\net6.0\z028.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ev_ba\Desktop\гикбрейнс\VisualStudia\UNTITLED (WORKSPACE)\Project\z028\obj\Debug\net6.0\z028.AssemblyInfoInputs.cache
+C:\Users\ev_ba\Desktop\гикбрейнс\VisualStudia\UNTITLED (WORKSPACE)\Project\z028\obj\Debug\net6.0\z028.AssemblyInfo.cs
+C:\Users\ev_ba\Desktop\гикбрейнс\VisualStudia\UNTITLED (WORKSPACE)\Project\z028\obj\Debug\net6.0\z028.csproj.CoreCompileInputs.cache
+C:\Users\ev_ba\Desktop\гикбрейнс\VisualStudia\UNTITLED (WORKSPACE)\Project\z028\obj\Debug\net6.0\z028.dll
+C:\Users\ev_ba\Desktop\гикбрейнс\VisualStudia\UNTITLED (WORKSPACE)\Project\z028\obj\Debug\net6.0\refint\z028.dll
+C:\Users\ev_ba\Desktop\гикбрейнс\VisualStudia\UNTITLED (WORKSPACE)\Project\z028\obj\Debug\net6.0\z028.pdb
+C:\Users\ev_ba\Desktop\гикбрейнс\VisualStudia\UNTITLED (WORKSPACE)\Project\z028\obj\Debug\net6.0\z028.genruntimeconfig.cache
+C:\Users\ev_ba\Desktop\гикбрейнс\VisualStudia\UNTITLED (WORKSPACE)\Project\z028\obj\Debug\net6.0\ref\z028.dll
